@@ -40,5 +40,6 @@ echo zahuishi
 
 echo oooaoa
 
-
 echo 21131
+
+echo 0000
