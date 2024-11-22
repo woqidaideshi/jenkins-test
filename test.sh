@@ -23,3 +23,5 @@ echo 22 22
 echo github-webhook
 
 echo add secret
+
+echo test
