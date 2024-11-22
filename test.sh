@@ -17,3 +17,5 @@ echo test again
 echo nihao
 
 echo test hook
+
+echo 22 22
