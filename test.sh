@@ -43,3 +43,5 @@ echo oooaoa
 echo 21131
 
 echo 0000
+
+echo 1111
